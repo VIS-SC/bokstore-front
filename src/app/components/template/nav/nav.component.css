@@ -1,0 +1,20 @@
+.container {
+    height: 85%;
+    background-color: rgb(46, 45, 45);
+}
+
+.mat-sidenav{
+    background-color: rgb(71, 71, 71)
+}
+
+.mat-nav-list{
+    background-color: rgb(66, 66, 70);
+}
+
+.mat-list-item{
+    color: blanchedalmond;
+}
+
+i {
+    padding-right: 0.5rem;
+}
